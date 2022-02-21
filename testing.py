@@ -1,5 +1,5 @@
 import time
 
 while True:
-  print("h!!")
+  print("huk")
   time.sleep(5)
